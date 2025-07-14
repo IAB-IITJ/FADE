@@ -1,0 +1,19 @@
+
+- target: "blue jay"
+  positive: "blue jay"
+  unconditional: ""
+  neutral: ""
+  retain_one: "florida jay"
+  retain_two: "white breasted nuthatch"
+  retain_three: "green jay"
+  retain_four: "cardinal"
+  retain_five: "blue winged warbler"
+  action: "erase_with_retain"
+  guidance_scale: "1.0"
+  resolution: 512
+  batch_size: 4
+  dynamic_resolution: true
+  guide_strength: 1000
+  retain_strength: 50.0
+  exp_strength: 3.0
+  sampling_batch_size: 4
