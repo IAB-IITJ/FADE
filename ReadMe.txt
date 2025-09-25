@@ -1,6 +1,3 @@
-The code is extensively borrowed from below: 
-SPM : https://github.com/Con6924/SPM 
-FMN : https://github.com/SHI-Labs/Forget-Me-Not 
 
 1. Concept Neighborhood 
     Steps to Run:
@@ -44,4 +41,9 @@ FMN : https://github.com/SHI-Labs/Forget-Me-Not
         The above script provides classification accuracy of the desired class images (for class of CUBS dataset for reference).
         Please provide <target_class> as the class for which you are providing the Images like "blue-jay" from Cubs dataset.
         Please provide <dir_path> as the path of the directory where the images are stored for the corresponding target class. 
+
+
+We acknowledge the support provided by the existing unlearning repositories utilized in this paper: 
+SPM : https://github.com/Con6924/SPM 
+FMN : https://github.com/SHI-Labs/Forget-Me-Not 
 
